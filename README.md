@@ -4,7 +4,6 @@
 
 Fast, private, native desktop transcription and translation for creators, teams, and researchers.
 
-Formerly **WeWhisper-AI**.
 
 <p align="center">
   <a href="https://usefulthings.gumroad.com/l/speakshift">
