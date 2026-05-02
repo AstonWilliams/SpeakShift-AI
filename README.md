@@ -4,8 +4,6 @@
 
 Fast, private, native desktop transcription and translation for creators, teams, and researchers.
 
-Formerly **WeWhisper-AI**.
-
 <p align="center">
   <a href="https://usefulthings.gumroad.com/l/speakshift">
     <img src="https://img.shields.io/badge/Gumroad-Get%20SpeakShift-ff90e8?style=for-the-badge&logo=gumroad&logoColor=000" alt="Gumroad">
